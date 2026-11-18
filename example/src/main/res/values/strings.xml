@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Infobip UI SDK Example</string>
+    <string name="register_success">Registered for incoming calls successfully</string>
+    <string name="register_failure">Failed to register for incoming calls</string>
+</resources>
